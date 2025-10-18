@@ -7,7 +7,7 @@ from typing import Dict, List, Optional
 
 import fitz
 from PyQt6.QtCore import QPointF, Qt, QSize, pyqtSignal
-from PyQt6.QtGui import QAction, QKeySequence, QPainter, QPixmap, QIcon
+from PyQt6.QtGui import QAction, QKeySequence, QPainter, QPixmap, QIcon, QColor
 from PyQt6.QtWidgets import (
     QApplication,
     QFileDialog,
